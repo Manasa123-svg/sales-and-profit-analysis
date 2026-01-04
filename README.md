@@ -32,3 +32,5 @@ Data Visualization
 # Business Value
 
 The dashboard enables stakeholders to monitor performance, identify profit drivers, optimize product and customer strategies, and make data-driven business decisions.
+
+https://github.com/Manasa123-svg/sales-and-profit-analysis/blob/main/Sales%20and%20profit%20analysis.png
